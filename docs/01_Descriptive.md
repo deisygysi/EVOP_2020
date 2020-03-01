@@ -586,8 +586,7 @@ CV(data$Age_death)
 ## [1] 20.54431
 ```
 
-### Exercise {.tabset .tabset-fade .tabset-pills}
-#### Exercises
+### Exercises
 1. Make absolute and relative frequency tables for the variables: Gender and Status. 
 
 1. Check how many people that suffered from Bipolar Disorder committed suicide. Visualise it using a barplot. 

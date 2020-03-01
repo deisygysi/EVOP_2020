@@ -567,8 +567,8 @@ Question: Does it make sense that the gene expression decreases with the increas
 ### Summary
 ![Association test summary](Figs/Slide3.png)
 
-### Exercise {.tabset .tabset-fade .tabset-pills}
-#### Exercises
+
+### Exercises
 1. Is there a correlation between the levels of APOLD1 and TAC1?
 1. Test if there is an association of Suicide and Patients treated with lithium. And for patients treated with valproate?
 1. Test if there is a difference on the gene expression of the genes CLDN10, EFEMP1, PLSCR4, SOX9 in cases and controls. And male and females? Consider a model with gender and disease status. 

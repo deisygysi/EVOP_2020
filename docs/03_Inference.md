@@ -794,8 +794,7 @@ a way to do it using R is by using `p.adjust()`.
 ![Hypothesis test summary](Figs/Slide2.png)
 
 
-### Exercise 
-#### Exercise
+### Exercise
 1. Test if the proportion of therapies differs on the patients.
 1. Test if there is a difference on the (average or median) of brain pH and the status. And the brain side?
 1. Test if the average expression of the genes differs by gender.

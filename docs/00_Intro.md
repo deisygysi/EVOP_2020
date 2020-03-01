@@ -145,25 +145,3 @@ data = data[,-1]
 ### Exercise 
 #### Exercise
 1. Define the type of each variable in our data set.
-
-#### Results
-
-
-```r
-str(data)
-```
-
-* Qualitative Nominal:
-* X
-* Status Disease
-* Therapy (Eletroconvulcive, Valproate, Lithium)
-* Qualitative Ordinal 
-* Alchool abuse
-* Drug abuse
-* Quantative Discrete:
-* Age (death and onset)
-* Duration disease
-* Therapy Fluphenazine
-* Quantative Continuous:
-* pH
-* Genes

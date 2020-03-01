@@ -1,0 +1,7 @@
+title: "EVOP 2020 - Basic Statistics: probability and inference using R"
+description: "A short course of statistics using R."
+search_enabled: true
+show_downloads: false
+plugins:
+  - jemoji
+markdown: kramdown

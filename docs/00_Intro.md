@@ -142,7 +142,7 @@ data = data[,-1]
 ```
 
 
-### Exercise {.tabset .tabset-fade .tabset-pills}
+### Exercise 
 #### Exercise
 1. Define the type of each variable in our data set.
 
